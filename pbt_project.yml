@@ -1,0 +1,58 @@
+name: kaci.ferry
+description: multi-tasking
+version: 4.4.654
+author: jcgor2kc.ddph2ozy@uzdavf2a.com
+language: scala
+buildSystem: ''
+buildSystemDetails:
+  artefactID: kaciferry
+  parentArtefactID: ''
+  buildSystem: maven
+  author: null
+  createdAt: '2025-11-21 23:10:36'
+pipelines: {}
+datasets: {}
+templates: {}
+jobs: {}
+gemContainer:
+  languageVersion: ''
+  gemLibsVersion: ''
+  gems: {}
+  dependencies: null
+functions:
+  author: null
+  createdAt: '2025-11-21 23:10:36'
+  udfs: {}
+  udafs: {}
+  expressions: {}
+  airflowFunctions: {}
+  businessRules: {}
+subgraphs: {}
+sqlModels: {}
+sqlSnapshots: {}
+sqlTests: {}
+sqlMacros: {}
+sqlSeeds: {}
+sqlSources: {}
+sqlUnreferencedSources: {}
+sqlPipeline: null
+dependencies:
+- modifiedAt: '2025-11-21T23:10:36.772222Z'
+  name: plibMaven
+  version: 8.16.0-SNAPSHOT
+  id: '2064585107'
+  createdAt: '2025-11-21T23:10:36.772222Z'
+  type: plibMaven
+projectDependencies:
+  '513':
+    projectUID: 513
+    projectName: mary.renner
+    repositoryPath: gitUri=http://gitserver:3000/dev_6U9vL7jU_team_837/dev_6U9vL7jU_project_513.git&subPath=
+    version: mary.renner/8.7.4.518
+    isDefault: false
+    author: null
+    createdAt: '2025-11-21 23:10:33'
+flags:
+  shouldAddDefaultDependenciesIfAbsent: true
+pipelineConfigurations: {}
+projectConfigurations: {}
